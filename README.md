@@ -20,5 +20,5 @@
   merged dataset. 
   - To process the data, run Data_cleaning.R
 - Acknowledgements 
-  - Whale sighting data - OBIS-SEAMAP / NOAA repositories
+  - Whale sighting data - OBIS-SEAMAP 
   - Sea Surface Data - NOAA OISST datasets 
